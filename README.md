@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PflanzFranz
-- 😄 Pronouns: he/him
+- 😄 Pronouns: any
 
 <!---
 PflanzFranz/PflanzFranz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
